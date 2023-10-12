@@ -3,3 +3,5 @@
 
 运行效果
 ![img](/switch.gif)
+
+在线预览 [switch](https://huangfushan.github.io/switch)
